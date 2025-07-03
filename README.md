@@ -1,8 +1,8 @@
-et: A React + ASP.NET + JavaScript + C# Project Template
+# React + ASP.NET + JavaScript + C# + Container Support Project Template
 
 ## Overview
 
-**ReactNetJS** is a project template that seamlessly integrates React (frontend), ASP.NET (backend), JavaScript, and C#. This template is designed to accelerate the development of modern web applications by providing a robust, full-stack foundation.
+**This** is a project template that seamlessly integrates React (frontend), ASP.NET (backend), JavaScript, and C# and optional Linux container support. This template is designed to accelerate the development of modern web applications by providing a robust, full-stack foundation.
 
 ## Best Use Cases
 
